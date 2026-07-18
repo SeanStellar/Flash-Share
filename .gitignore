@@ -1,0 +1,25 @@
+# Local development environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# PyInstaller and temporary build output
+build/
+dist/
+.build-temp/
+
+# Local Codex/agent metadata
+.agents/
+.codex/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.part
