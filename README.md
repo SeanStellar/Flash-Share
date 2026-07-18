@@ -38,3 +38,5 @@
 ```
 
 生成文件位于本文件夹根目录的 `Flash Share.exe`（`dist` 中也会保留一份）。
+后续如果有BUG或建议可以评论留言或者邮箱联系我
+If you encounter any bugs or have suggestions later, feel free to leave a comment or contact me via email.
